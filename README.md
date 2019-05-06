@@ -174,7 +174,7 @@ protected void drawCubicBezier(ILineDataSet dataSet) {
     }
 ```
 
-4.至此大功告成。如果其它填充效果这里就不再赘述。相信大家根据MPAndroidChart提供的demo就能很好的实现。
+4.至此大功告成。如果要实现填充效果这里就不再赘述。相信大家根据MPAndroidChart提供的demo就能很好的实现。
 
 
 ###### 如有疑问请联系邮箱:569133338@qq.com
